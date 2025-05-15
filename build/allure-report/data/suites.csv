@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8863","Validate that the 3rd cast member's profile matches expected name","Gradle suite","Thu May 15 13:15:18 EEST 2025","passed","Thu May 15 13:15:27 EEST 2025","imdb.tests.ImdbTest","Gradle test","imdb.tests.ImdbTest","testSearchAndCastValidation"
+"","9602","Validate that the 3rd cast member's profile matches expected name","Gradle suite","Thu May 15 13:17:35 EEST 2025","passed","Thu May 15 13:17:44 EEST 2025","imdb.tests.ImdbTest","Gradle test","imdb.tests.ImdbTest","shouldValidateThirdCastMemberProfile"

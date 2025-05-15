@@ -1,0 +1,1 @@
+{"uuid":"1e30e112-312c-4da3-94ed-5c47a2176f90","name":"imdb.tests.ImdbTest","children":["f0f64edd-b6c6-4fdd-9d07-9320b3123192"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1747306765752,"stop":1747306772082}],"afters":[],"start":1747306765734,"stop":1747306781638}

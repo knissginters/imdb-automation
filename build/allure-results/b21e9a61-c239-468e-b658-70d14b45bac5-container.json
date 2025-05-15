@@ -1,0 +1,1 @@
+{"uuid":"b21e9a61-c239-468e-b658-70d14b45bac5","name":"imdb.tests.ImdbTest.tearDown","children":["f0f64edd-b6c6-4fdd-9d07-9320b3123192"],"description":"","befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1747306781468,"stop":1747306781633}],"start":1747306781468,"stop":1747306781633}
